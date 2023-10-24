@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "CTRStorage",
+  "sourceName": "contracts/ClaimTopicsRegistry.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea26469706673582212204d1a2ab629dbd824f2bae3e673be3847f34e060af7d5eb4b4e6ba63c599edb4464736f6c63430008110033",
+  "deployedBytecode": "0x6080604052600080fdfea26469706673582212204d1a2ab629dbd824f2bae3e673be3847f34e060af7d5eb4b4e6ba63c599edb4464736f6c63430008110033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

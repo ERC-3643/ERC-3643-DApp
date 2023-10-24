@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+
+    "target": "ES6",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "lib": ["ES2017", "DOM"],
+    "types": ["node"],
+    "baseUrl": ".",
+    "paths": {
+      "*": ["./packages/hardhat/node_modules/*"]
+    }
+  }
+}
