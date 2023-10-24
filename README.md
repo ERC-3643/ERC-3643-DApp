@@ -1,3 +1,10 @@
+
+---
+
+⚠️ **Warning**: The current version of this DApp is a **Proof of Concept (PoC)** and is intended for demonstration and testing purposes only. It is currently configured to work exclusively on the **Mumbai testnet**. Please exercise caution and do not use it in production or with real assets until further development and testing have been completed.
+
+--- 
+
 # 🏗 ERC-3643-DApp
 
 <h4 align="center">
